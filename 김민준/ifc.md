@@ -1,5 +1,9 @@
 # Infrastructure from Code
 
+velog 링크
+
+- https://velog.io/@mele/Infrastructure-FROM-Code
+
 ### 목차
 
 - 프로그래밍 언어의 발전 과정
